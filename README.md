@@ -29,11 +29,10 @@ I'm Adam, a full stack developer 💻. I'm passionate about software development
 ![](https://img.shields.io/badge/Firebase-PaaS-informational?style=flat&logo=firebase&logoColor=white&color=0080ff)
 ![](https://img.shields.io/badge/Vercel-PaaS-informational?style=flat&logo=vercel&logoColor=white&color=0080ff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamgajzlerowicz&count_private=true)](https://github.com/adamgajzlerowicz/github-readme-stats)
 
 - 📫 How to reach me: nelf86@gmail.com
 
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamgajzlerowicz&count_private=true)](https://github.com/adamgajzlerowicz/github-readme-stats)
 
 
